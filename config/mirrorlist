@@ -1,0 +1,3 @@
+[myrepo]
+SigLevel = Optional TrustAll
+Server = http://localhost:8080/$arch
