@@ -4,3 +4,4 @@ pyyaml>=6.0.1
 colorama>=0.4.6
 python-gnupg>=0.5.1
 setuptools>=68.2.2
+gunicorn==21.2.0
